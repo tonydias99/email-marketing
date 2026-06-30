@@ -1,0 +1,3 @@
+[submodule "email-builder"]
+	path = email-builder
+	url = https://github.com/usewaypoint/email-builder-js.git
